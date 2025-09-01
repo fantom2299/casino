@@ -9,6 +9,7 @@ export default function ArticleCasino() {
 
         <Image
           src="/star.svg"
+          alt="звезда"
           width={24}
           height={24}
           aria-hidden="true"
@@ -38,6 +39,7 @@ export default function ArticleCasino() {
 
         <Image
           src="/star.svg"
+          alt="звезда"
           width={24}
           height={24}
           aria-hidden="true"
@@ -59,6 +61,7 @@ export default function ArticleCasino() {
 
         <Image
           src="/star.svg"
+          alt="звезда"
           width={24}
           height={24}
           aria-hidden="true"
@@ -97,6 +100,7 @@ export default function ArticleCasino() {
 
         <Image
           src="/star.svg"
+          alt="звезда"
           width={24}
           height={24}
           aria-hidden="true"
@@ -118,6 +122,7 @@ export default function ArticleCasino() {
 
         <Image
           src="/star.svg"
+          alt="звезда"
           width={24}
           height={24}
           aria-hidden="true"
@@ -148,6 +153,7 @@ export default function ArticleCasino() {
 
         <Image
           src="/star.svg"
+          alt="звезда"
           width={24}
           height={24}
           aria-hidden="true"
