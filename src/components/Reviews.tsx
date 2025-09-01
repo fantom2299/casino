@@ -35,7 +35,7 @@ export default function Reviews() {
 
       const created: Review = await res.json();
       // Мгновенно покажем в списке
-      setItems((prev) => [created, ...prev]);
+      // setItems((prev) => [created, ...prev]);
       setOk('Спасибо! Отзыв отправлен.');
       setName('');
       setText('');
