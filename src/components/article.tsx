@@ -54,6 +54,7 @@ export default function Article({ className }: Props) {
 
         <Image
           src="/star.svg"
+          alt="звезда"
           width={24}
           height={24}
           aria-hidden="true"
